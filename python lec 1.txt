@@ -1,0 +1,20 @@
+A single python file is called a module.
+Interactive mode uses idle mode. Imeediate output
+Scripted file uses a new file. Typical way of writing code where the  whole code is executed at once.
+Most important block of code - indentation.
+
+OPERATORS
+1.arithmetic operator
+2.assignment operator
+3.comparison
+4.bitwise
+5.logical
+6.identity
+7.special
+A.Arithmetic operator
+Floor division returns an integer value.//
+exponent**
+/ gives quotient
+% remainder
+B. Assignment operator
+assigns values to variables.

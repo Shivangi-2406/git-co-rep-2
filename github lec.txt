@@ -1,0 +1,10 @@
+
+adding a new repository to GitHub
+creating a repo consists of three steps:-
+1.Git add -command
+2.Git commit
+3.Git push
+imp terminology
+cmnd:- git init
+      git commit -m"message"
+for git add command compulsorily requires to add file name but if you want to add all the files you can use "." 
